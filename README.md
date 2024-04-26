@@ -23,3 +23,7 @@ npx sequelize-cli db:migrate:undo --name create-table-pelanggan
 or
 for all
 npx sequelize db:migrate:undo:all
+
+## Dokumentasi API
+
+silahkan import file test_bp.json di dalam insomnia
